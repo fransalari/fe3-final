@@ -1,0 +1,17 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+/* Estilos para el tema claro */
+.light-theme {
+  background-color: white;
+  color: black;
+}
+
+/* Estilos para el tema oscuro */
+.dark-theme {
+  background-color: black;
+  color: white;
+}
